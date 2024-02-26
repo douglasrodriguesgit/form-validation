@@ -43,3 +43,12 @@ button {
   color: #fff;
   cursor: pointer;
 }
+
+.errorName,
+.errorEmail,
+.errorPassword,
+.errorJob,
+.errorMessage {
+  color: #fb5538;
+  border-color: #fb5538;
+}
